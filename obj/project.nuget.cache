@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ukt+CFYt7L3hkz7ygxH9nzhofAVI+G2Algv+sBdx2I3ruZ2Wye8FQ5t+qaz6li48VS/QMBb/A5LAsFtXuuNWRg==",
+  "success": true,
+  "projectFilePath": "F:\\projects\\ChangeDbForWordOfDay\\ChangeDbForWordOfDay.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reakti1\\.nuget\\packages\\microsoft.data.sqlite\\5.0.8\\microsoft.data.sqlite.5.0.8.nupkg.sha512",
+    "C:\\Users\\Reakti1\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.8\\microsoft.data.sqlite.core.5.0.8.nupkg.sha512",
+    "C:\\Users\\Reakti1\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\Reakti1\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\Reakti1\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\Reakti1\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\Reakti1\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
